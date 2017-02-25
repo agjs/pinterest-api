@@ -1,0 +1,19 @@
+{
+  "name": "pinterest-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agjs/pinterest-api.git"
+  },
+  "author": "Aleksandar Grbic <agrbicpp@gmail.com> (https://codeyoufools.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agjs/pinterest-api/issues"
+  },
+  "homepage": "https://github.com/agjs/pinterest-api#readme"
+}
